@@ -1,0 +1,193 @@
+{
+  "userInfo": {
+    "name": "Alex Morgan",
+    "title": "Senior Cryptography Engineer",
+    "company": "Quantum Innovations Inc.",
+    "location": "San Francisco, California"
+  },
+  "entropyMetrics": {
+    "total": {
+      "shannonEntropy": 347.8,
+      "minEntropy": 321.5,
+      "extractableEntropy": 289.3
+    },
+    "distribution": {
+      "education": 87.4,
+      "career": 92.3,
+      "transitions": 65.9,
+      "geographical": 102.2
+    }
+  },
+  "securityAssessment": {
+    "estimatedYears": 75,
+    "quantumResistance": "High",
+    "socialEngineeringResistance": "Very High",
+    "privacyProtection": "High"
+  },
+  "events": [
+    {
+      "id": "ev_001",
+      "type": "education",
+      "date": "2012 to 2016",
+      "description": "Bachelor's in Computer Science, Stanford University",
+      "location": "Stanford, CA",
+      "significance": 1.8,
+      "entropy": 26.4
+    },
+    {
+      "id": "ev_002",
+      "type": "employment",
+      "date": "2016 to 2018",
+      "description": "Junior Software Engineer at TechCorp",
+      "location": "Palo Alto, CA",
+      "significance": 1.4,
+      "entropy": 18.7
+    },
+    {
+      "id": "ev_003",
+      "type": "geographical_transition",
+      "date": "2018",
+      "description": "Relocated to San Francisco",
+      "location": "San Francisco, CA",
+      "significance": 1.3,
+      "entropy": 15.2
+    },
+    {
+      "id": "ev_004",
+      "type": "education",
+      "date": "2018 to 2020",
+      "description": "Master's in Cryptography, UC Berkeley",
+      "location": "Berkeley, CA",
+      "significance": 1.9,
+      "entropy": 28.6
+    },
+    {
+      "id": "ev_005",
+      "type": "employment",
+      "date": "2020 to Present",
+      "description": "Senior Cryptography Engineer at Quantum Innovations Inc.",
+      "location": "San Francisco, CA",
+      "significance": 1.7,
+      "entropy": 24.3
+    },
+    {
+      "id": "ev_006",
+      "type": "career_transition",
+      "date": "2023",
+      "description": "Led development of quantum-resistant cryptography protocol",
+      "location": "San Francisco, CA",
+      "significance": 2.1,
+      "entropy": 32.7
+    }
+  ],
+  "zkProofs": [
+    {
+      "id": "zkp_001",
+      "claim": "Holds Master's degree in Cryptography from UC Berkeley",
+      "evidence": "Degree verification through university records and blockchain credential system",
+      "status": "Valid",
+      "confidenceScore": 0.98,
+      "category": "Education",
+      "verificationMethod": "Academic credential verification protocol"
+    },
+    {
+      "id": "zkp_002",
+      "claim": "Employed at Quantum Innovations Inc. since 2020",
+      "evidence": "Employment contract verification through secure multiparty computation",
+      "status": "Valid",
+      "confidenceScore": 0.95,
+      "category": "Employment",
+      "verificationMethod": "Employer attestation with time-lock encryption"
+    },
+    {
+      "id": "zkp_003",
+      "claim": "Resident of San Francisco, California for 3+ years",
+      "evidence": "Verified through geo-anchored cryptographic binding",
+      "status": "Valid",
+      "confidenceScore": 0.92,
+      "category": "Location",
+      "verificationMethod": "Geographical proof of presence protocol"
+    },
+    {
+      "id": "zkp_004",
+      "claim": "Received Advanced Cryptography Certification in 2023",
+      "evidence": "Certificate verification through industry accreditation body",
+      "status": "Valid",
+      "confidenceScore": 0.97,
+      "category": "Education",
+      "verificationMethod": "Certificate chain validation"
+    },
+    {
+      "id": "zkp_005",
+      "claim": "Continuous employment history from 2016-present with no gaps",
+      "evidence": "Time-sequenced employment verification through cryptographic commitments",
+      "status": "Valid",
+      "confidenceScore": 0.89,
+      "category": "Timeline",
+      "verificationMethod": "Chronological consistency proof"
+    },
+    {
+      "id": "zkp_006",
+      "claim": "Identity verified through government-issued credentials",
+      "evidence": "Multi-factor verification with biometric binding",
+      "status": "Valid",
+      "confidenceScore": 0.99,
+      "category": "Identity",
+      "verificationMethod": "Sovereign identity verification protocol"
+    },
+    {
+      "id": "zkp_007",
+      "claim": "Led quantum-resistant cryptography protocol development",
+      "evidence": "Project completion verification through stakeholder attestations",
+      "status": "Valid",
+      "confidenceScore": 0.94,
+      "category": "Career",
+      "verificationMethod": "Role-based attestation protocol"
+    },
+    {
+      "id": "zkp_008",
+      "claim": "Possesses cryptographic key with 3+ years of continuous activity",
+      "evidence": "Key age verification through timestamped blockchain transactions",
+      "status": "Valid",
+      "confidenceScore": 0.96,
+      "category": "Security",
+      "verificationMethod": "Key continuity verification"
+    },
+    {
+      "id": "zkp_009",
+      "claim": "Completed Stanford University Bachelor's program with honors",
+      "evidence": "Academic record verification through university attestation",
+      "status": "Valid",
+      "confidenceScore": 0.98,
+      "category": "Education",
+      "verificationMethod": "Academic honors verification protocol"
+    },
+    {
+      "id": "zkp_010",
+      "claim": "Age verified as 30+ years",
+      "evidence": "Birth date verification through secure computation",
+      "status": "Valid",
+      "confidenceScore": 0.99,
+      "category": "Identity",
+      "verificationMethod": "Age range proof protocol"
+    },
+    {
+      "id": "zkp_011",
+      "claim": "Published 3+ peer-reviewed papers on cryptography",
+      "evidence": "Publication verification through academic database attestation",
+      "status": "Valid",
+      "confidenceScore": 0.93,
+      "category": "Career",
+      "verificationMethod": "Academic publication verification"
+    },
+    {
+      "id": "zkp_012",
+      "claim": "Maintained continuous California residency since 2012",
+      "evidence": "Residency verification through geo-temporal proofs",
+      "status": "Valid",
+      "confidenceScore": 0.91,
+      "category": "Location",
+      "verificationMethod": "Long-term geographical consistency proof"
+    }
+  ]
+}
