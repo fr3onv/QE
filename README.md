@@ -159,14 +159,13 @@ To ensure quantum resistance in the classical components, we implement:
 
 The integration of these quantum and post-quantum components creates a comprehensive security architecture that remains secure against both conventional and quantum adversaries, while binding authentication to the unique biographical features of the user's Life Tree.
 
-Figure 3 illustrates the complete quantum-classical integration architecture:
+Figure 2: Quantum Integration in the Life Tree Framework
+![Quantum Integration](https://github.com/user-attachments/assets/18dd519a-4461-4bee-beb1-f937a9999f95)
 
-[Quantum-Classical Integration Architecture Figure]
+Figure 3: illustrates the complete quantum-classical integration architecture
+![Mermaid Diagram](https://mermaidviewer.com/api/diagrams/cm8u8ouib00amn30ker7vhv41/image)
 
 This architecture provides provable security guarantees based on both the laws of quantum mechanics and the computational hardness assumptions of post-quantum cryptography, creating a robust foundation for the Life Tree framework.
-
-![image](https://github.com/user-attachments/assets/27c34f48-a3b7-47a6-b863-dc34cb0f1ee3)
-
 
 #### 2.2.4 Enhanced E91 Protocol Implementation
 
@@ -324,7 +323,7 @@ Our findings validate the initial hypothesis that biographical entropy scales wi
 
 Figure 5 illustrates the comparative entropy distributions across demographic groups:
 
-[Entropy Distribution Figure]
+![entropy_distribution_figure](https://github.com/user-attachments/assets/58363bc7-4e75-419f-84fc-278af49c5b8c)
 
 These results empirically confirm that biographical data can provide sufficient entropy for post-quantum security requirements, even when accounting for statistical correlations and predictability factors. The observed min-entropy values (274.8-1124.2 bits) exceed the NIST recommendation of 256 bits for post-quantum security across all adult age groups.
 
