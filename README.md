@@ -33,7 +33,8 @@ We implement a modified Merkle tree structure where:
 
 The tree structure allows for efficient verification of specific branches without revealing the entire biographical history, implementing the "selective disclosure" principle described by Goldwasser et al. [13](#ref13) in their foundational work on zero-knowledge proofs. This selective verification capability ensures that authentication processes can be tailored to specific security contexts without compromising the overall biographical privacy of the user.
 
-![image](https://github.com/user-attachments/assets/1e54b777-9cc3-4316-a83f-da0ef47e7bb3)
+Figure 1: Life Tree Structure
+![Life Tree Structure](https://github.com/user-attachments/assets/695c0eb8-b8f4-43e7-a581-da5c958ae4fd)
 
 
 ### 2.1.1 Enhanced Mathematical Model for Biographical Entropy
@@ -260,7 +261,8 @@ Our comprehensive security analysis also considers:
 
 This multi-faceted defense strategy ensures that the Life Tree framework maintains its security properties across a wide range of potential attack vectors.
 
-![image](https://github.com/user-attachments/assets/bc098401-de8d-487d-a737-748c4f4edeaa)
+Figure 4: Life Tree Security Model and Attack Resistance
+![Life Tree Security Model and Attack Resistance](https://github.com/user-attachments/assets/e06a3195-e4a2-4583-906f-1b11b2eb5597)
 
 #### 3.2.1 Security Bounds for Key Threat Models
 
