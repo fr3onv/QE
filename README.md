@@ -202,7 +202,9 @@ Additionally, we implement:
 
 These privacy mechanisms collectively ensure that the Life Tree framework achieves its security objectives without compromising user privacy, thereby addressing one of the fundamental tensions in contemporary cryptographic systems.
 
-![image](https://github.com/user-attachments/assets/47c75689-c66d-4806-9bfb-384f7437d57a)
+Figure 6: Privacy Mechanisms in the Life Tree Framework
+
+![Privacy Mechanisms](https://github.com/user-attachments/assets/44c77762-27e2-451b-9b21-c4c553612136)
 
 #### 2.3.1 Zero-Knowledge Biographical Proofs
 
@@ -430,7 +432,7 @@ These practical considerations highlight the complexity of implementing theoreti
 
 To address these implementation challenges, we have designed a layered, modular architecture:
 
-![image](https://github.com/user-attachments/assets/e9a233f0-d371-4e2d-bf78-11a0532870ea)
+![Comprehensive System Architecture](https://github.com/user-attachments/assets/a9e034e0-7bf1-492c-8916-e16ea119cd02)
 
 This architecture facilitates modular development, security analysis, and integration with existing systems, addressing both technical and practical deployment challenges.
 
